@@ -9,5 +9,3 @@ stash
 yeeaaa
 
 aaaaaa
-
-ああ
